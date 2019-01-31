@@ -1,0 +1,2 @@
+# Pure_cpp_sliding_window_object_detector_train_apply
+Pure_cpp_sliding_window_object_detector_train_apply
